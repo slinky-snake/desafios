@@ -1,0 +1,7 @@
+ah=input('diga algo')
+print(type(ah))
+print(ah.isnumeric())
+print(ah.isalpha())
+print(ah.istitle())
+print(ah.islower())
+print(ah.islower())
